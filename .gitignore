@@ -54,6 +54,6 @@ wheels/
 images/
 
 # face model storage
-.pickle
-.yaml\
-.yml
+*.pickle
+*.yaml
+*.yml
